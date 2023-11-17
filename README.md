@@ -15,8 +15,8 @@ Data on private property transactions was obtained mostly from the Urban Redevel
 This web app was a final project for an introductory-level programming course in R at the National University of Singapore.
 
 **Notes:**
-- This is a one-off project. There are no plans to update the time frame used historic property transaction data or the location data of amenities nearest to properties in the future.
-- This app uses a Google Maps API key for certain features, for those intending to clone this repository and use it for their own personal prokect.
+- This is a one-off project. There are no plans to update the timeframe for the historic property transaction data or the location data of amenities nearest to properties in the future.
+- For those intending to clone this repository and use it for their own personal project, note that this app uses a Google Maps API key for certain features.
 - This application is heavily inspired by a similar project done for this exact course with its code [here](https://github.com/kaiwei-tan/DBA3702_project).
 
 **Link to web app on [shinyapps.io](https://www.shinyapps.io/):**
