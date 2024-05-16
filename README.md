@@ -21,4 +21,6 @@ This web app was a final project for an introductory-level programming course in
 
 **Link to web app on [shinyapps.io](https://www.shinyapps.io/):**
 
+**Update 2024-05-16**: The API for the routes to the nearest amenities has stopped working, so only the district map can be accessed.
+
 [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://tsu2000.shinyapps.io/condobravo/)
